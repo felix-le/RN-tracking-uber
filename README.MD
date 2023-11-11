@@ -1,3 +1,1 @@
-# REACT NATIVE DEFAULT FOR IOS ONLY
-
-1. NativeWind
+https://www.youtube.com/watch?v=3JOuweIEicg&list=PLG6Cxs9K4_gOhwKdDdbis4UepKl-Fm7UY&ab_channel=IntellectDeveloper
